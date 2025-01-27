@@ -1,16 +1,34 @@
-## Hi there 👋
+## Présentation
+<img src="https://i.imgur.com/tRqTIdl.gif" width="50%"/>
 
-<!--
-**SCL3/SCL3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- NOM : BOUFFIES (le "E" et le "S" se prononcent)
+- Prénom : Pierre
+- 🥳Age : 22 ans (21/04/2003)
+- Permis : Oui
+- 🚗Voiture : Oui
+## 🎓Mes Formations / 👨‍⚖️Mon Entreprise
+- Lycée Paul Emile Victior : Baccalauréat Général Spécialité SVT, Physique-Chimie (Mention Assez-Bien)
+####
+- Titulaire d'un BTS SIO SLAM
+- Formation actuelle : BACHELOR 3
+####
+- Mon entreprise : Service Expert Entreprise
+## 👨‍💻Compétences
+- Java
+- HTML
+- CSS
+- Python
+- JavaScript
+- SQL
+- Markdown
 
-Here are some ideas to get you started:
+## 🔥Passions
+- 🚴‍♂️**Sport** : Handball🤾‍♀️, Course à pied🏃‍♂️
+- 🎮**Jeux Vidéo** : Rocket League, LOL, Trackmania
+- 😺**Animaux** : Chats, Chien
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pour mieux me Connaître :
+- **Portfolio** : [https://pierrebouffies.fr](https://portfolio-two-delta-40.vercel.app/)
+- **Linkedin** : https://www.linkedin.com/in/pierre-bouffies-83b024235/
+- **GitLab** : https://gitlab.com/Pierre-BOUFFIES
+
