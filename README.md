@@ -45,7 +45,7 @@
 ## 🔥Passions
 - 🏋️**Sport** : Musculation, Course à pied
 - 🎮**Jeux Vidéo** : Valorant, LoL, Hollow Knight, DbD, R6 et bien d'autres...
-- ✏️**Dessin** : Chats, Chien
+- ✏️**Dessin** :
 - 🎵**Musique** : Tout genre...
 ## Pour mieux me Connaître :
 - **Linkedin** : [https://www.linkedin.com/in/simon-cl/](https://www.linkedin.com/in/simon-cl/)
