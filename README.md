@@ -1,34 +1,51 @@
 ## Présentation
 <img src="https://i.imgur.com/tRqTIdl.gif" width="50%"/>
 
-- NOM : BOUFFIES (le "E" et le "S" se prononcent)
-- Prénom : Pierre
-- 🥳Age : 22 ans (21/04/2003)
+- NOM : CHANTHRABOUTH-LIEBBE
+- Prénom : Simon
+- 🥳Age : 21 ans (08/06/2003)
 - Permis : Oui
 - 🚗Voiture : Oui
-## 🎓Mes Formations / 👨‍⚖️Mon Entreprise
-- Lycée Paul Emile Victior : Baccalauréat Général Spécialité SVT, Physique-Chimie (Mention Assez-Bien)
+## 🎓Mes Formations
+- Lycée Camille Claudel : Baccalauréat Général Spécialités Numérique et Sciences Informatiques, Mathématiques (Mention Bien)
+  Option : Japonais (3 ans)
+           Maths Expertes (1 an)
 ####
-- Titulaire d'un BTS SIO SLAM
-- Formation actuelle : BACHELOR 3
+- Formation actuelle : Ingénieur Informatique
 ####
-- Mon entreprise : Service Expert Entreprise
-## 👨‍💻Compétences
+- 👨‍⚖️ Mon entreprise : Les Toiles de Minuit
+## 👨‍💻Compétences : Langage Informatique
+- Front End (HTML, CSS, JavaScript)
+- Back End (PHP, SQL)
 - Java
-- HTML
-- CSS
 - Python
-- JavaScript
-- SQL
-- Markdown
+- Dart
+- C
+- C#
+- C++
+- R
+
+## 👨‍💻Compétences : Système d'Exploitation
+- Windows
+- Linux
+- Shell
+
+## 👨‍💻Compétences : Logiciel
+- R Studio
+- VSCode
+- Flutter
+- Unity
+- Wordpress
+- Rentman
+- Figma
+- Canva
+- Photoshop
+- Cisco Packet Tracer
 
 ## 🔥Passions
-- 🚴‍♂️**Sport** : Handball🤾‍♀️, Course à pied🏃‍♂️
-- 🎮**Jeux Vidéo** : Rocket League, LOL, Trackmania
-- 😺**Animaux** : Chats, Chien
-
+- 🏋️**Sport** : Musculation, Course à pied
+- 🎮**Jeux Vidéo** : Valorant, LoL, Hollow Knight, DbD, R6 et bien d'autres...
+- ✏️**Dessin** : Chats, Chien
+- 🎵**Musique** : Tout genre...
 ## Pour mieux me Connaître :
-- **Portfolio** : [https://pierrebouffies.fr](https://portfolio-two-delta-40.vercel.app/)
-- **Linkedin** : https://www.linkedin.com/in/pierre-bouffies-83b024235/
-- **GitLab** : https://gitlab.com/Pierre-BOUFFIES
-
+- **Linkedin** : [https://www.linkedin.com/in/simon-cl/](https://www.linkedin.com/in/simon-cl/)
