@@ -3,7 +3,7 @@
 
 - NOM : CHANTHRABOUTH-LIEBBE
 - Prénom : Simon
-- 🥳Age : 21 ans (08/06/2003)
+- 🥳Age : 22 ans (08/06/2003)
 - Permis : Oui
 - 🚗Voiture : Oui
 ## 🎓Mes Formations
