@@ -43,7 +43,7 @@
 - Cisco Packet Tracer
 
 ## 🔥Passions
-- 🏋️**Sport** : Musculation, Course à pied
+- 🏋️**Sport** : Musculation, marche
 - 🎮**Jeux Vidéo** : Valorant, LoL, Hollow Knight, DbD, R6 et bien d'autres...
 - ✏️**Dessin** :
 - 🎵**Musique** : Tout genre...
