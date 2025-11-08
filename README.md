@@ -1,5 +1,5 @@
 ## Présentation
-<img src="https://tenor.com/bftQl.gif" width="50%"/>
+<img src="https://media1.tenor.com/m/pvFJwncehzIAAAAd/hello-there-private-from-penguins-of-madagascar.gif" width="50%"/>
 
 ### Simon CHANTHRABOUTH-LIEBBE
 Étudiant alternant à CY Tech, proche de l’obtention du diplôme d’ingénieur en informatique (dernière année), spécialisé dans l’intelligence artificielle.
