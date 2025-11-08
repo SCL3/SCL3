@@ -1,19 +1,22 @@
 ## Présentation
 <img src="https://i.imgur.com/tRqTIdl.gif" width="50%"/>
 
+Étudiant alternant à CY Tech, proche de l’obtention du diplôme d’ingénieur en informatique (dernière année), spécialisé dans l’intelligence artificielle.
+À la recherche d’un **stage de 3 mois à l’international à partir de mai 2026**.
+
 - NOM : CHANTHRABOUTH-LIEBBE
 - Prénom : Simon
-- 🥳Age : 22 ans (08/06/2003)
+- Age : 22 ans (08/06/2003)
 - Permis : Oui
-- 🚗Voiture : Oui
-## 🎓Mes Formations
+- 🚗 Voiture : Oui
+## Mes Formations
 - Lycée Camille Claudel : Baccalauréat Général Spécialités Numérique et Sciences Informatiques, Mathématiques (Mention Bien)
   Option : Japonais (3 ans)
            Maths Expertes (1 an)
 ####
-- Formation actuelle : Ingénieur Informatique
-####
-- 👨‍⚖️ Mon entreprise : Les Toiles de Minuit
+- Formation actuelle : Ingénieur Informatique, spécialité **Intelligence Artificielle
+####**
+- Entreprise de mon alternance : Les Toiles de Minuit
 ## 👨‍💻Compétences : Langage Informatique
 - Front End (HTML, CSS, JavaScript)
 - Back End (PHP, SQL)
@@ -31,21 +34,22 @@
 - Shell
 
 ## 👨‍💻Compétences : Logiciel
-- R Studio
-- VSCode
-- Flutter
-- Unity
 - Wordpress
-- Rentman
+- Notion
+- Flutter
+- Photoshop
 - Figma
 - Canva
-- Photoshop
+- Unity
+- Rentman
+- Odoo
+- R Studio
 - Cisco Packet Tracer
 
 ## 🔥Passions
-- 🏋️**Sport** : Musculation, marche
+- 🏋️**Sport** : Badminton, Musculation
 - 🎮**Jeux Vidéo** : Valorant, LoL, Hollow Knight, DbD, R6 et bien d'autres...
-- ✏️**Dessin** :
-- 🎵**Musique** : Tout genre...
+- 🎵**Musique** : Tout genre !
 ## Pour mieux me Connaître :
+- **Mon site internet** : [https://simon-cl.com/](https://simon-cl.com/)
 - **Linkedin** : [https://www.linkedin.com/in/simon-cl/](https://www.linkedin.com/in/simon-cl/)
