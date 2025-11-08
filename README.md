@@ -1,12 +1,13 @@
 ## Présentation
 <img src="https://i.imgur.com/tRqTIdl.gif" width="50%"/>
 
+### Simon CHANTHRABOUTH-LIEBBE
 Étudiant alternant à CY Tech, proche de l’obtention du diplôme d’ingénieur en informatique (dernière année), spécialisé dans l’intelligence artificielle.
 À la recherche d’un **stage de 3 mois à l’international à partir de mai 2026**.
 
-- NOM : CHANTHRABOUTH-LIEBBE
-- Prénom : Simon
+- Email : contact@simon-cl.com OU simon.chan@outlook.fr  
 - Age : 22 ans (08/06/2003)
+- Nationalité : Franco-Thaïlandais
 - Permis : Oui
 - 🚗 Voiture : Oui
 ## Mes Formations
